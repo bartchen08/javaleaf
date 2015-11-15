@@ -1,8 +1,6 @@
-package com.example.helloworld.resources;
+package com.example.helloworld;
 
 import com.codahale.metrics.annotation.Timed;
-import com.example.helloworld.api.Saying;
-import com.example.helloworld.core.Template;
 import com.google.common.base.Optional;
 import io.dropwizard.jersey.caching.CacheControl;
 import io.dropwizard.jersey.params.DateTimeParam;

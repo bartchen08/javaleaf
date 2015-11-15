@@ -1,4 +1,4 @@
-package com.example.helloworld.api;
+package com.example.helloworld;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.google.common.base.MoreObjects;

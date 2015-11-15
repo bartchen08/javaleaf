@@ -1,7 +1,6 @@
-package com.example.helloworld.health;
+package com.example.helloworld;
 
 import com.codahale.metrics.health.HealthCheck;
-import com.example.helloworld.core.Template;
 import com.google.common.base.Optional;
 
 public class TemplateHealthCheck extends HealthCheck {

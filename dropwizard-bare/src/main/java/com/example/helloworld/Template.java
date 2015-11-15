@@ -1,4 +1,4 @@
-package com.example.helloworld.core;
+package com.example.helloworld;
 
 import com.google.common.base.Optional;
 
